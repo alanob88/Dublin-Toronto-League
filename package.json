@@ -34,6 +34,7 @@
     "email": "n.melhado@gmail.com"
   },
   "license": "MIT",
+  "engines": {
     "node": ">=14.0.0",
     "npm": ">=6.0.0"
   },
